@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.Operators;
+package com.griddynamics.nchmiel.javafundamentals.operators;
 
 //Task 1.
 public class Precedence {

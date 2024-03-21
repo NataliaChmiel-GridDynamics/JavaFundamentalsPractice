@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.ClassInheritence;
+package com.griddynamics.nchmiel.javafundamentals.classinheritence;
 
 class Animal{
     void walk(){

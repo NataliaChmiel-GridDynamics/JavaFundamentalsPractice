@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.ErrorHandling;
+package com.griddynamics.nchmiel.javafundamentals.errorhandling;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

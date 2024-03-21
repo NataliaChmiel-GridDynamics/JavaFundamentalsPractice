@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.JavaKeywords;
+package com.griddynamics.nchmiel.javafundamentals.javakeywords;
 
 //The void keyword specifies that a method should not have a return value.
 

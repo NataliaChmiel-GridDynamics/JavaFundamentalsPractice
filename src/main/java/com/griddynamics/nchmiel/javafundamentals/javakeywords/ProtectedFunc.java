@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.JavaKeywords;
+package com.griddynamics.nchmiel.javafundamentals.javakeywords;
 
 class Person {
     protected String fname = "John";

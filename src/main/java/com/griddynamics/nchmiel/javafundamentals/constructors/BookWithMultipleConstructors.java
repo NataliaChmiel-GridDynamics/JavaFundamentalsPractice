@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.Constructors;
+package com.griddynamics.nchmiel.javafundamentals.constructors;
 
 class BookWithMultipleConstructors {
     public static void main(String s[]) {

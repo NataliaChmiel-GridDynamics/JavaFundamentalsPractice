@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.JavaKeywords;
+package com.griddynamics.nchmiel.javafundamentals.javakeywords;
 
 //SecondPublicFunc accesses a public MainSecondPublicFunc class with public attributes:
 class SecondPublicFunc {

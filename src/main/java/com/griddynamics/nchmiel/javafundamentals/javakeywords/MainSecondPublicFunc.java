@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.JavaKeywords;
+package com.griddynamics.nchmiel.javafundamentals.javakeywords;
 
 public class MainSecondPublicFunc {
     public String fname = "John";

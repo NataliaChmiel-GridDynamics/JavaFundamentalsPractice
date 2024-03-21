@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.Looping;
+package com.griddynamics.nchmiel.javafundamentals.looping;
 
 
 import java.util.Random;

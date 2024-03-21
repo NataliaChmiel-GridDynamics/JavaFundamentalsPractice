@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.DataTypes;
+package com.griddynamics.nchmiel.javafundamentals.datatypes;
 
 public class StringConcat {
     String hi = "Hi, ";

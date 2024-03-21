@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.Operators;
+package com.griddynamics.nchmiel.javafundamentals.operators;
 
 public class IncreasingOrder {
     //Order the following in the increasing order of the byte size:

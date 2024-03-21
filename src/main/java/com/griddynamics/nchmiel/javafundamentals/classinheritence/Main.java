@@ -1,4 +1,4 @@
-package com.griddynamics.nchmiel.javafundamentals.ClassInheritence;
+package com.griddynamics.nchmiel.javafundamentals.classinheritence;
 
 import java.util.Scanner;
 abstract class Book {
