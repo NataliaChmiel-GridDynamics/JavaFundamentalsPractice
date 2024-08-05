@@ -36,5 +36,6 @@ public class WordCount {
 
         // Print the word counts
         System.out.println(wordCountMap);
+
     }
 }
